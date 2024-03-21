@@ -1,4 +1,4 @@
-# [Projet 1 : visualisation de donnée de vente de café sous Excel](https://github.com/yourikabala/Youri_DataAnalysis_projects/blob/00c99af6014ac16e0849589da6793ae290f4ae7e/coffeeOrdersData_Excel_dataviz_preparation_cleaning_project_YouriKABALA.xlsx)
+# [Projet 1 : visualisation de donnée de vente de café sous Excel](https://github.com/yourikabala/Youri_DataAnalysis_projects/blob/main/Projects/coffeeOrdersData_Excel_dataviz_preparation_cleaning_project_YouriKABALA.xlsx)
 
 Un projet fait sur Excel qui comprends le nettoyage de donnée, l'agrégation de donnée, l'enrichissement de donnée, la préparation de données ainsi que la visualisation de donnée.
 
