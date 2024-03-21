@@ -14,7 +14,7 @@ Un projet fait sur Excel qui comprends le nettoyage de donnée, l'agrégation de
 Ces filtres permettent d'avoir plus de granularité d'informations, de partir sur du macro et ensuite faire une analyse plutôt micro.
 
 Je vous laisse télécharger le fichier du projet si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
-Si vous souhaitez me contacter pour poser des questions, vous trouverez mon email sur mon profil.
+Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon email sur mon profil.
 
 ## Ci-dessous une aperçu du dashboard ⬇️ 
 ![](Image/dashboard)
