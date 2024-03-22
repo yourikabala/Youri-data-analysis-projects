@@ -13,7 +13,7 @@ Un projet fait sur Excel qui comprends le nettoyage de donnée, l'agrégation de
  
 Ces filtres permettent d'avoir plus de granularité d'informations, de partir sur du macro et ensuite faire une analyse plutôt micro.
 
-Je vous laisse télécharger le fichier du projet si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
+Je vous laisse télécharger le fichier du projet (en cliquant sur le titre) si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
 Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon email sur mon profil.
 
 ## Ci-dessous un aperçu du dashboard ⬇️ 
@@ -34,7 +34,7 @@ Sur ce dashboard vous trouverez :
 
 Le dashboard est totalement dynamique, les filtres ne sont pas que sur la colonne de gauche, vous pouvez aussi cliquer sur les trois visualisations au centre pour affiner davantage votre analyse et ainsi le dashboard se mettra à jour en fonction de votre filtrage. 
 
-Je vous laisse cliquer sur le lien ci-dessus et jouer avec le dashboard si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
+Je vous laisse cliquer sur le lien ci-dessus (le titre) et jouer avec le dashboard si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
 Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon email sur mon profil.
 
 ## Ci-dessous un aperçu du dashboard ⬇️ 
