@@ -1,4 +1,4 @@
-# [Projet 1 : visualisation de donnée de vente de café sous Excel](https://github.com/yourikabala/Youri_DataAnalysis_projects/blob/main/Projects/coffeeOrdersData_Excel_dataviz_preparation_cleaning_project_YouriKABALA.xlsx)
+# [Projet 1 : visualisation de donnée de vente de café sur Excel](https://github.com/yourikabala/Youri_DataAnalysis_projects/blob/main/Projects/coffeeOrdersData_Excel_dataviz_preparation_cleaning_project_YouriKABALA.xlsx)
 
 Un projet fait sur Excel qui comprends le nettoyage de donnée, l'agrégation de donnée, l'enrichissement de donnée, la préparation de données ainsi que la visualisation de donnée.
 
@@ -22,7 +22,7 @@ Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon e
 
 ---
 
-# [Projet 2 : visualisation de reviews/ratings de la compagnie British Airways](https://public.tableau.com/app/profile/youri8745/viz/Youri_kabala_British_Airways_review/Dashboard)
+# [Projet 2 : visualisation de reviews/ratings de la compagnie British Airways sur Tableau](https://public.tableau.com/app/profile/youri8745/viz/Youri_kabala_British_Airways_review/Dashboard)
 
 Ce projet consiste à créer un dashboard afin d'analyser les reviews/commentaires ainsi que les ratings/notes des clients sur multiples aspect de l’activité de British Airways, la période temporelle d'analyse est de 2017 à 2023.
 
