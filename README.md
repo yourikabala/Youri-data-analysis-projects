@@ -2,7 +2,7 @@
 
 Un projet fait sur Excel qui comprends le nettoyage de donnée, l'agrégation de donnée, l'enrichissement de donnée, la préparation de données ainsi que la visualisation de donnée.
 
-* Le dataset utilisé a été pris dans Kaggle, vous le retrouverez dans le fichier Excel ou bien en cliquant ici (https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
+* Le dataset comporte des données de 2019 à 2022, il a été pris sur Kaggle, vous le retrouverez dans le fichier Excel ou bien en cliquant ici (https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
 * Vous retrouverez sous l'onglet "orders_Dataset_prepared" toute la préparation nécessaire pour la réalisation des TCD et des visualisations.
 * Sous l'onglet "Dashboard" vous trouverez les visualisations ainsi que 4 filtres qui s'appliquent sur toutes les visualisations :
   
@@ -16,10 +16,29 @@ Ces filtres permettent d'avoir plus de granularité d'informations, de partir su
 Je vous laisse télécharger le fichier du projet si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
 Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon email sur mon profil.
 
-## Ci-dessous une aperçu du dashboard ⬇️ 
-![](Image/dashboard)
+## Ci-dessous un aperçu du dashboard ⬇️ 
+![](Image/Dashboard_Excel)
 
 
+---
+
+# [Projet 2 : visualisation de reviews/ratings de la compagnie British Airways](https://public.tableau.com/app/profile/youri8745/viz/Youri_kabala_British_Airways_review/Dashboard)
+
+Ce projet consiste à créer un dashboard afin d'analyser les reviews/commentaires ainsi que les ratings/notes des clients sur multiples aspect de l’activité de British Airways, la période temporelle d'analyse est de 2017 à 2023.
+
+Sur ce dashboard vous trouverez :
+
+* En header : la moyenne des ratings suivi du rating moyen par catégories.
+* Coté gauche : des filtres qui vous permettent de faire une analyse micro et d'avoir plus de granularité dans la lecture de la data.
+* Au centre : trois visualisations qui vous donnent une lecture de donnée sur trois niveaux, par mois, par pays et par avions !
+
+Le dashboard est totalement dynamique, les filtres ne sont pas que sur la colonne de gauche, vous pouvez aussi cliquer sur les trois visualisations au centre pour affiner davantage votre analyse et ainsi le dashboard se mettra à jour en fonction de votre filtrage. 
+
+Je vous laisse cliquer sur e lien ci-dessus et jouer avec le dashboard si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
+Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon email sur mon profil.
+
+## Ci-dessous un aperçu du dashboard ⬇️ 
+![](Image/Dashboard_Tableau)
 
 
   
