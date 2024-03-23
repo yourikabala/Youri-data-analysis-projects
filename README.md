@@ -2,7 +2,7 @@
 
 Un projet fait sur Excel qui comprends le nettoyage de donnée, l'agrégation de donnée, l'enrichissement de donnée, la préparation de données ainsi que la visualisation de donnée.
 
-* Le dataset comporte des données de 2019 à 2022, il a été pris sur Kaggle, vous le retrouverez dans le fichier Excel ou bien en cliquant ici (https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
+* Le dataset comporte des données de 2019 à 2022, il a été pris sur Kaggle, vous le retrouverez dans le fichier Excel ou bien en cliquant [ici](https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data).
 * Vous retrouverez sous l'onglet "orders_Dataset_prepared" toute la préparation nécessaire pour la réalisation des TCD et des visualisations.
 * Sous l'onglet "Dashboard" vous trouverez les visualisations ainsi que 4 filtres qui s'appliquent sur toutes les visualisations :
   
@@ -39,6 +39,24 @@ Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon e
 
 ## Ci-dessous un aperçu du dashboard ⬇️ 
 ![](Image/Dashboard_Tableau)
+
+
+---
+
+# [Projet 3 : visualisation de données data marketing sur Google data studio / Looker studio](https://lookerstudio.google.com/reporting/fe62ebb4-1de8-4664-bcb6-c4ae31e8a690/page/g8BSC)
+
+Ce projet consiste à créer un dashboard afin d'analyser des données data marketing de régies publicitaires.
+J'ai réalisé ce projet lors de mon M1 en stragégie digitales au sein de l'ESD, [ici](https://docs.google.com/spreadsheets/d/1KZ7lJQZva-qjcAQBOGmMHfEO6rheBNpn6XmKJdUjP9s/edit#gid=0) vous trouverez le dataset.
+
+Le dashboard est facilement lisible, et non je n'ai pas utilisé de tempate, tout est fait from scratch !
+
+Je vous laisse cliquer sur le lien ci-dessus (le titre) et jouer avec le dashboard si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
+
+Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon email sur mon profil.
+
+## Ci-dessous un aperçu du dashboard ⬇️ 
+![](Image/Dashboard_Looker_studio)
+
 
 
   
