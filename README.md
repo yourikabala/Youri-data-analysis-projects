@@ -46,9 +46,9 @@ Si vous souhaitez me contacter pour me poser des questions, vous trouverez mon e
 # [Projet 3 : visualisation de données data marketing sur Google data studio / Looker studio](https://lookerstudio.google.com/reporting/fe62ebb4-1de8-4664-bcb6-c4ae31e8a690/page/g8BSC)
 
 Ce projet consiste à créer un dashboard afin d'analyser des données data marketing de régies publicitaires.
-J'ai réalisé ce projet lors de mon M1 en stragégie digitales au sein de l'ESD, [ici](https://docs.google.com/spreadsheets/d/1KZ7lJQZva-qjcAQBOGmMHfEO6rheBNpn6XmKJdUjP9s/edit#gid=0) vous trouverez le dataset.
+J'ai réalisé ce projet lors de mon M1 en stratégie digitale au sein de l'ESD, [ici](https://docs.google.com/spreadsheets/d/1KZ7lJQZva-qjcAQBOGmMHfEO6rheBNpn6XmKJdUjP9s/edit#gid=0) vous trouverez le dataset.
 
-Le dashboard est facilement lisible, et non je n'ai pas utilisé de tempate, tout est fait from scratch !
+Le dashboard est facilement lisible, et non je n'ai pas utilisé de template, tout est fait from scratch !
 
 Je vous laisse cliquer sur le lien ci-dessus (le titre) et jouer avec le dashboard si vous désirez le voir en détail, l'utiliser personnellement ou le répliquer pour vous exercer.
 
